@@ -1,0 +1,28 @@
+# Django Framework & API
+django>=4.2
+djangorestframework
+django-cors-headers
+
+# Database
+mysqlclient
+
+# Automation (Scraping)
+selenium
+webdriver-manager
+
+# AI & RAG Pipeline
+google-generativeai
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-classic
+langchain-huggingface
+sentence-transformers
+
+# Utilities
+python-dotenv
+
+pandas
