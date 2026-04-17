@@ -1,4 +1,5 @@
-Ergosphere Intel: AI-Powered Book Intelligence Platform
+<img width="944" height="398" alt="image" src="https://github.com/user-attachments/assets/4866ec2c-cdbe-4c7a-947b-a3e0c8987b45" />Ergosphere Intel: AI-Powered Book Intelligence Platform
+<img width="944" height="398" alt="image" src="https://github.com/user-attachments/assets/d49ea947-2681-44bd-8572-d5482db9804c" />
 
 Ergosphere Intel is a sophisticated RAG (Retrieval-Augmented Generation) platform designed to transform static book catalogs into interactive intelligence hubs. It combines a high-performance Django backend with a modern React frontend to allow users to explore book metadata and perform deep-contextual queries across the entire library using LLMs.
 
